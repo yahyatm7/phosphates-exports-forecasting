@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.xlsx
+*.joblib
+models/
+outputs/
+.pytest_cache/
+.streamlit/secrets.toml
+.env
